@@ -1,0 +1,10 @@
+{
+  "name": "precocerto",
+  "displayName": "Preco Certo",
+  "expo": {
+    "name": "preco-certo",
+    "slug": "preco-certo",
+    "version": "1.0.0",
+    "assetBundlePatterns": ["**/*"]
+  }
+}

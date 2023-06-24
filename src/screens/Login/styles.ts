@@ -34,11 +34,12 @@ export const AuthWrapper = styled.View`
 export const Footer = styled.View``;
 
 export const TextFooter = styled.Text`
-  font-size: 14px;
+  font-size: 15px;
   text-align: center;
 `;
 
 export const TextLink = styled(TextFooter)`
   color: #49c256;
   text-decoration: underline;
+  text-decoration-color: #49c256;
 `;

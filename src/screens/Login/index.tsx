@@ -10,7 +10,6 @@ import {
 } from "./styles";
 import { Text } from "./styles";
 import Logo from "@assets/Logo.svg";
-import { View } from "react-native";
 
 export default function Login() {
   return (

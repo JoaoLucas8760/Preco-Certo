@@ -52,7 +52,6 @@ export default function AuthButton({ authType }: AuthButtonProps) {
         };
         console.log(userData);
 
-        console.log(userObject);
         setUser(userObject);
         navigation.navigate("Home");
       }

@@ -24,7 +24,7 @@ export default function Home() {
           <WelcomeText>
             Olá, {user.first_name} {user.last_name}
           </WelcomeText>
-          <WelcomeDesc>Em busca de preços baixos!</WelcomeDesc>
+          <WelcomeDesc>Em busca de preços baixos! </WelcomeDesc>
         </TextsWrapperHead>
       </Header>
 
